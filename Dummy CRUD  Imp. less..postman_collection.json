@@ -12,7 +12,7 @@
 				{
 					"name": "Get emplyee",
 					"request": {
-						"method": "GET",
+						"method": "POST",
 						"header": [],
 						"url": {
 							"raw": "https://dummy.restapiexample.com/api/v1/employee/21",
