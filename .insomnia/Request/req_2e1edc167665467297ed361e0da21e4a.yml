@@ -1,0 +1,72 @@
+_id: req_2e1edc167665467297ed361e0da21e4a
+type: Request
+parentId: wrk_ae2447210ec44591a94368bbe9abc0ea
+modified: 1663852977035
+created: 1663852964485
+url: https://adminapi.blue-version.com/api/Main/LoginUser?TimeZone=4&LanguageId=en
+name: Log in
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"data":"ch3+JQ9eFnlvM1KGLTeEUeQckO2AAtvugKxro3anrsBLqDtB76sltab6oIcYmUAkfdd73YFADTw4d7jV0swIPYH3hj1oGYJN6KVq9Gw3UPoibyHEbnnoK7n8XVp+8G+gf/g74XKPbwOwS8GZwM8FUp/xhrTrgAhgJ4RRmrgTWnkOckmpn6KrgPy3UxhVu4Pd5UIVM11+gXv1NJHp81+bPKUol6gO2vNVblHoiMwAoS5W+yP7yJqNygoKwAb9KbylWtNWhFGVE2cQEG/B5nWVIbSKifNvnFMNnFQlTtPuQikdPEfRATrpj1hQI9bJJaC+2CZCF7lve+f2mJPnoRBCuQ=="}'
+parameters: []
+headers:
+  - name: authority
+    value: adminapi.blue-version.com
+    id: pair_6dea9df28602465980f89fe6fa56b03a
+  - name: accept
+    value: application/json, text/plain, */*
+    id: pair_2df108610ed04aed90f02e27657ee8a2
+  - name: accept-language
+    value: en-US,en;q=0.9,ru;q=0.8
+    id: pair_5c4fecf6807949c4bb9b121d4decbb7c
+  - name: content-type
+    value: application/json;charset=UTF-8
+    id: pair_94e0259e8d3d4b61a80a908374ec9f4a
+  - name: origin
+    value: https://admin.blue-version.com
+    id: pair_2bfd50ebb3ee4a90808032d1c2a57c61
+  - name: referer
+    value: https://admin.blue-version.com/
+    id: pair_3f877886e55e4ae9ba6167b1cc45f531
+  - name: sec-ch-ua
+    value: '"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"'
+    id: pair_8dc104eddfd34de9bd2b80feda64dbeb
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_461c17164963487699712ded281c9b73
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+    id: pair_82fc68c65686464a9e16d68ab2f77ab1
+  - name: sec-fetch-dest
+    value: empty
+    id: pair_a85dfb6f5d0b4865b91ccc3dd694ec81
+  - name: sec-fetch-mode
+    value: cors
+    id: pair_9dbb34645d5c47e2940e702c6c829d11
+  - name: sec-fetch-site
+    value: same-site
+    id: pair_169e524df1d64b2d95ee165038fc0e9d
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/105.0.0.0 Safari/537.36
+    id: pair_faa96a06581248fba3f5bc7a111abd74
+  - name: Authorization
+    value: Bearer 2c53f314-4519-45a6-bd7e-29d4eb6825c6
+    id: pair_b068439e54d24a66ba5eac1cb79b21e5
+  - name: Cookie
+    value: AWSALBTG=cq4K+MZA7ZrSw5yct4i3oXpBJG/3dqaiAC7ONB36qbuh0K6e0VL71QOTw9OuVx79RrBXnk5DdTlu9ht3sWC23NNfAE9Bm/FSEjdblMCtAYTIvs5v2vh5w2jVQYQAU9eyfh1LHqDqm6RYyU/srnT/EImntor8ysBq9NMfvSZ7/OXB;
+      AWSALBTGCORS=cq4K+MZA7ZrSw5yct4i3oXpBJG/3dqaiAC7ONB36qbuh0K6e0VL71QOTw9OuVx79RrBXnk5DdTlu9ht3sWC23NNfAE9Bm/FSEjdblMCtAYTIvs5v2vh5w2jVQYQAU9eyfh1LHqDqm6RYyU/srnT/EImntor8ysBq9NMfvSZ7/OXB;
+      AWSALB=W7yN/SbFXcNqxxuvAUp4mLY3DuglCJbpuOWl/gy7zNwIfpW5DcYhwmLChbwdb7eyN3JOmMAVhjXT5GHLX/GIWgOiaJc4HAgFUIStelX8tGgrQk9vUnljbumricuc;
+      AWSALBCORS=W7yN/SbFXcNqxxuvAUp4mLY3DuglCJbpuOWl/gy7zNwIfpW5DcYhwmLChbwdb7eyN3JOmMAVhjXT5GHLX/GIWgOiaJc4HAgFUIStelX8tGgrQk9vUnljbumricuc
+    id: pair_281e348b62574a94925da8f752c109f1
+authentication: {}
+metaSortKey: -1663852964485
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
